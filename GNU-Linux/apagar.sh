@@ -27,6 +27,6 @@ do
 		echo -n "\n"
 		exit
 	else
-		echo "\nSe ingresó una opción que no está en el menú\n"
+		echo "\n ¡¡Se ingresó una opción que no está en el menú!!\n"
 	fi
 done
